@@ -1,0 +1,14 @@
+D:\backend\Lession01\Lab 1.5App\bin\Debug\net8.0\Lab 1.5App.exe
+D:\backend\Lession01\Lab 1.5App\bin\Debug\net8.0\Lab 1.5App.deps.json
+D:\backend\Lession01\Lab 1.5App\bin\Debug\net8.0\Lab 1.5App.runtimeconfig.json
+D:\backend\Lession01\Lab 1.5App\bin\Debug\net8.0\Lab 1.5App.dll
+D:\backend\Lession01\Lab 1.5App\bin\Debug\net8.0\Lab 1.5App.pdb
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.AssemblyInfoInputs.cache
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.AssemblyInfo.cs
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.csproj.CoreCompileInputs.cache
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.dll
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\refint\Lab 1.5App.dll
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.pdb
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\Lab 1.5App.genruntimeconfig.cache
+D:\backend\Lession01\Lab 1.5App\obj\Debug\net8.0\ref\Lab 1.5App.dll

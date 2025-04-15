@@ -1,0 +1,14 @@
+D:\backend\Lession01\Lab 11App\bin\Debug\net8.0\Lab 11App.exe
+D:\backend\Lession01\Lab 11App\bin\Debug\net8.0\Lab 11App.deps.json
+D:\backend\Lession01\Lab 11App\bin\Debug\net8.0\Lab 11App.runtimeconfig.json
+D:\backend\Lession01\Lab 11App\bin\Debug\net8.0\Lab 11App.dll
+D:\backend\Lession01\Lab 11App\bin\Debug\net8.0\Lab 11App.pdb
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.AssemblyInfoInputs.cache
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.AssemblyInfo.cs
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.csproj.CoreCompileInputs.cache
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.dll
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\refint\Lab 11App.dll
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.pdb
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\Lab 11App.genruntimeconfig.cache
+D:\backend\Lession01\Lab 11App\obj\Debug\net8.0\ref\Lab 11App.dll
